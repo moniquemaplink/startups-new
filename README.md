@@ -30,8 +30,8 @@ Verifique se as APIs relacionadas aos serviços acima estão devidamente habilit
 
 1. Faça login em seu console do GCP
 2. Abra o Terminal (>_) localizado no menu superior direito
-3. Faça o download dos arquivos disponíveis no Github do maplink com o comando: git clone https://github.com/tigabytes-jpereira/maplink_google_tigabytes.git
-4. Abra o diretório criado: cd maplink_google_tigabytes
+3. Faça o download dos arquivos disponíveis no Github do maplink com o comando:
+4. Abra o diretório criado: cd maplink_google
 5. Nele estarão contidos todos os arquivos necessários para este lab
 6. Abra o Editor ("Open Editor) disponivel na barra de opções do Terminal e abra o arquivo "variables.tf"
 7. Altere os valores das variáveis "project" e "bucket_name" de acordo com seu ambiente e salve as alterações com Ctrl+S.
@@ -91,14 +91,6 @@ E as permissões abaixo no nível de organização se necessário:
 ## ⚙️ Limpando o ambiente
 
 Após concluírmos o laboratório, lembre de excluir os recursos aqui criados, assim não teremos custos desnecessários.
-1. Navegue até o diretório do laboratório: cd maplink_google_tigabytes-main
+1. Navegue até o diretório do laboratório: cd maplink_google_-main
 2. Digite o comando a seguir e confirme com "yes" quando solicitado: terraform destroy
-   
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Jean Vinicius** - *IaC, Apresentação e  e Documentação* - [Cloud Architect - Pre-Sales | Tigabytes] (https://www.linkedin.com/in/jean-vf-pereira/)
-* **Rogério Magnani** - *Apresentação* - [Cloud Architect - Pre-Sales | Tigabytes] (https://www.linkedin.com/in/rogeriomagnani/)
-* **Victor Souza** - *Apresentação* - [Cloud Architect - Pre-Sales | Tigabytes] (https://www.linkedin.com/in/victor-luis-in/)
-* **Natanael Tavares** - *Arquitetura do Ambiente* - [Customer Engineer | Google] (https://www.linkedin.com/in/natanael-tavares-21ab18137/)
+8137/)
