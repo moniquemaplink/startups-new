@@ -1,4 +1,4 @@
-# Maplink Google e Tigabytes
+# Maplink Google 
 
 Estes arquivos serão utilizados durante o maplink promovido pelo Google e a Maplink para startups.
 
